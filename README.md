@@ -18,4 +18,3 @@ Una lista de topAtist:
 y por último nos muestra información específica de algún artista en particular: 
 
 ![image](https://github.com/Brandonalexiscc/PMovilReact/assets/90300293/1a4d2ce4-3f1f-46e7-b67d-494245acaa2b)
-

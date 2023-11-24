@@ -1,8 +1,9 @@
 # PMovilReact
 
 Alumnos: 
-Alcocer Medina Jesús Alfonso
-Canales Calvario Brandon Alexis
+* Alcocer Medina Jesús Alfonso
+
+* Canales Calvario Brandon Alexis
 
 Creación de aplicación donde se mustra un Login:
 
